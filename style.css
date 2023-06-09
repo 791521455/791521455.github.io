@@ -1,3 +1,15 @@
+.box{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    font-family:fantasy;
+    color:blueviolet;
+}
 .topic{
     font-family:verdana;
     font-family:arial;
@@ -9,6 +21,12 @@
     font-family:arial;
     color:rgb(159, 107, 155);
     font-size:20px;
+}
+.txnr{
+    font-family:verdana;
+    font-family:arial;
+    color:rgb(159, 107, 155);
+    font-size:17px; 
 }
 .webct{
     text-align: center;
